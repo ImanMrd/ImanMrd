@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="profile_banner.jpg" alt="Profile Banner" width="100%">
+  <img src="profile_banner_v2.jpg" alt="Profile Banner" width="100%">
 </div>
 
 # 👋 Hi, I'm Iman Moradi Nezhad
