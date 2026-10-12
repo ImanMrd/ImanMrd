@@ -10,7 +10,7 @@ Welcome to my portfolio! I build cloud infrastructure, automate complex processe
 
 ---
 
-## 🌟 What I Do (In Plain English)
+## 🌟 What I Do
 
 *   ☁️ **Cloud Infrastructure:** I build the "digital buildings" (servers, databases, networks) that websites and apps live in.
 *   🤖 **Artificial Intelligence:** I deploy intelligent models that can analyze data and make predictions (like healthcare diagnostics and industrial voice recognition).
