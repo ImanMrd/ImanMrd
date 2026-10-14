@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="profile_banner_v4.jpg" alt="Profile Banner" width="800">
 </div>
 
@@ -26,6 +26,7 @@ Welcome to my portfolio! I build cloud infrastructure, automate complex processe
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 <p align="left">
@@ -58,6 +59,11 @@ Welcome to my portfolio! I build cloud infrastructure, automate complex processe
 *   **The Problem:** Setting up servers manually takes weeks and is prone to human error.
 *   **My Solution:** Wrote "Infrastructure as Code" that builds complete, secure company networks in the cloud with a single click.
 *   **Business Value:** Reduces setup time from days to minutes and ensures absolute security and consistency.
+
+### 5. 🇮🇹 [Daily-Italy — Full-Stack Language Learning Platform](https://github.com/ImanMrd/Daily-Italy)
+*   **The Problem:** Traditional language apps rely on repetitive rote-memorization behind paywalls and lack authentic, multimodal training (reading, writing, grammar, and pronunciation in one cohesive system).
+*   **My Solution:** Engineered an artisanal, full-stack Italian mastery platform with a 60-chapter CEFR curriculum (A1–B2), four dedicated interactive labs per chapter (Vocabulary, Grammar Studio, Authentic Reading dialogues, and Writing Lab with anti-skip validation), placement testing, zero-latency speech synthesis, and SuperMemo-2 (SM-2) Spaced Repetition.
+*   **Business Value:** Demonstrates full-stack software craftsmanship with asynchronous FastAPI backend, modern Single Page Application (SPA) frontend, role-based access control (RBAC), and automated cloud CI/CD deployment.
 
 ---
 
