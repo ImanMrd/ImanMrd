@@ -40,7 +40,7 @@ Welcome to my portfolio! I build cloud infrastructure, automate complex processe
 
 ## 🚀 Featured Projects
 
-### 1. 🏭 [Industrial AI Voice Assistant (Stellantis Project)](https://github.com/ImanMrd/Voice-based-AI-application)
+### 1. 🏭 [Industrial AI Voice Assistant](https://github.com/ImanMrd/Voice-based-AI-application)
 *   **The Problem:** Factory electricians were wasting ~5 minutes per task typing defect data into web forms manually.
 *   **My Solution:** Developed a secure, hands-free Voice AI (Whisper & Claude) that instantly transcribes and organizes defect data into corporate databases.
 *   **Business Value:** Slashed data entry time to ~1 minute per defect, increasing factory floor efficiency and data accuracy.
